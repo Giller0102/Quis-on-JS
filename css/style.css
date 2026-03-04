@@ -119,11 +119,10 @@ button:hover {
 .option {
     background: #F3CC00;
     border-radius: 10px;
-    line-height: auto;
     text-align: center;
     color: #fff;
-    margin-bottom: 20px;
-    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
     width: 225px;
     height: 80px;
     font-size: 20px;
@@ -165,3 +164,4 @@ button:hover {
     margin-top: 35px;
 
 }
+
