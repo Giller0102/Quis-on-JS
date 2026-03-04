@@ -124,10 +124,10 @@ button:hover {
     padding-bottom: 20px;
     padding-top: 20px;
     width: 225px;
-    height: 80px;
     font-size: 20px;
     font-weight: bold;
     cursor: pointer;
+    lie
 }
 
 .options .correct {
@@ -164,4 +164,5 @@ button:hover {
     margin-top: 35px;
 
 }
+
 
